@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/sumit/Documents/sumitPersonal/okTalkAssignmentApp/app_file_chooser/build/intermediates/res/merged/androidTest/debug/drawable-ldpi-v4/document.png",
+        "source": "/Users/sumit/Documents/sumitPersonal/okTalkAssignmentApp/app_file_chooser/build/intermediates/bundles/debug/res/drawable-ldpi-v4/document.png"
+    },
+    {
+        "merged": "/Users/sumit/Documents/sumitPersonal/okTalkAssignmentApp/app_file_chooser/build/intermediates/res/merged/androidTest/debug/drawable-ldpi-v4/add.png",
+        "source": "/Users/sumit/Documents/sumitPersonal/okTalkAssignmentApp/app_file_chooser/build/intermediates/bundles/debug/res/drawable-ldpi-v4/add.png"
+    },
+    {
+        "merged": "/Users/sumit/Documents/sumitPersonal/okTalkAssignmentApp/app_file_chooser/build/intermediates/res/merged/androidTest/debug/drawable-ldpi-v4/ic_launcher.png",
+        "source": "/Users/sumit/Documents/sumitPersonal/okTalkAssignmentApp/app_file_chooser/build/intermediates/bundles/debug/res/drawable-ldpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/sumit/Documents/sumitPersonal/okTalkAssignmentApp/app_file_chooser/build/intermediates/res/merged/androidTest/debug/drawable-ldpi-v4/document_gray.png",
+        "source": "/Users/sumit/Documents/sumitPersonal/okTalkAssignmentApp/app_file_chooser/build/intermediates/bundles/debug/res/drawable-ldpi-v4/document_gray.png"
+    },
+    {
+        "merged": "/Users/sumit/Documents/sumitPersonal/okTalkAssignmentApp/app_file_chooser/build/intermediates/res/merged/androidTest/debug/drawable-ldpi-v4/tick.png",
+        "source": "/Users/sumit/Documents/sumitPersonal/okTalkAssignmentApp/app_file_chooser/build/intermediates/bundles/debug/res/drawable-ldpi-v4/tick.png"
+    },
+    {
+        "merged": "/Users/sumit/Documents/sumitPersonal/okTalkAssignmentApp/app_file_chooser/build/intermediates/res/merged/androidTest/debug/drawable-ldpi-v4/folder.png",
+        "source": "/Users/sumit/Documents/sumitPersonal/okTalkAssignmentApp/app_file_chooser/build/intermediates/bundles/debug/res/drawable-ldpi-v4/folder.png"
+    },
+    {
+        "merged": "/Users/sumit/Documents/sumitPersonal/okTalkAssignmentApp/app_file_chooser/build/intermediates/res/merged/androidTest/debug/drawable-ldpi-v4/no.png",
+        "source": "/Users/sumit/Documents/sumitPersonal/okTalkAssignmentApp/app_file_chooser/build/intermediates/bundles/debug/res/drawable-ldpi-v4/no.png"
+    },
+    {
+        "merged": "/Users/sumit/Documents/sumitPersonal/okTalkAssignmentApp/app_file_chooser/build/intermediates/res/merged/androidTest/debug/drawable-ldpi-v4/folder_gray.png",
+        "source": "/Users/sumit/Documents/sumitPersonal/okTalkAssignmentApp/app_file_chooser/build/intermediates/bundles/debug/res/drawable-ldpi-v4/folder_gray.png"
+    }
+]

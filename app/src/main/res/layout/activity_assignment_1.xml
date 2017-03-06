@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/word_with_occurrence_number_rv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/scan_new_file_btn"
+        android:layout_alignParentTop="true"
+        android:layout_margin="16dp"/>
+
+    <Button android:id="@+id/scan_new_file_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        style="@style/ButtonBorderColored"
+        android:text="@string/re_run_assignment_1"/>
+
+</RelativeLayout>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">OkTalkAssignmentApp</string>
+
+    <string name="read_external_storage_request_title">Read from external storage?</string>
+    <string name="read_contacts_title">Read contact list?</string>
+    <string name="read_contact_request">Needs to read contacts from your phone.</string>
+    <string name="read_external_storage_request">Needs to read from your phone\'s external storage.</string>
+    <string name="re_run_assignment_1">Re run assignment 1</string>
+    <string name="select_file_to_upload">Select a File to Upload</string>
+    <string name="install_file_manager">Please install a File Manager.</string>
+    <string name="show_the_user_s_contact_list_sorted_by_a_rank_value_in_decreasing_order">Show the user’s contact list, sorted by a Rank value, in decreasing order</string>
+    <string name="run_assignment_2">Run assignment 2</string>
+    <string name="write_an_activity_which_reads_a_file_and_prints_the_occurrences_of_the_words_in_increasing_order_in_groups_of_occurrences">Write an Activity which reads a file and prints the occurrences of the words in increasing order in groups of occurrences</string>
+
+    <string name="note_Assignment_1">Note: Special characters are not removed</string>
+    <string name="note_Assignment_2">Note: Showing contacts in recyclerview only. other task are still to be done.</string>
+
+</resources>
+

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/sumit/Documents/sumitPersonal/okTalkAssignmentApp/app_file_chooser/build/intermediates/res/merged/androidTest/debug/layout/daidalos_file_item.xml",
+        "source": "/Users/sumit/Documents/sumitPersonal/okTalkAssignmentApp/app_file_chooser/build/intermediates/bundles/debug/res/layout/daidalos_file_item.xml"
+    },
+    {
+        "merged": "/Users/sumit/Documents/sumitPersonal/okTalkAssignmentApp/app_file_chooser/build/intermediates/res/merged/androidTest/debug/layout/daidalos_file_chooser.xml",
+        "source": "/Users/sumit/Documents/sumitPersonal/okTalkAssignmentApp/app_file_chooser/build/intermediates/bundles/debug/res/layout/daidalos_file_chooser.xml"
+    }
+]
